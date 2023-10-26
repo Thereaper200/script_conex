@@ -10,5 +10,5 @@ netsh wlan delete filter permission=allow ssid="labelnet1_admins" networktype=in
 netsh wlan show profile
 netsh wlan connect name=LABELNET2
 
-echo fin
+
 pause
